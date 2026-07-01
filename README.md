@@ -24,7 +24,7 @@ pip install opencv-python numpy mediapipe pycaw
 * Visual effect of the volume control
 
 ### hand_landmarker.task
-A model that detects the keypoints of the 21 21 hand-knuckle coordinates within the detected hand regions.
+A model that detects the keypoints of the 21 hand-knuckle coordinates within the detected hand regions.
 
 ### HandTrackingModule.py
 Module that contains functions for the detection of the hands, position of the fingers, drawing the hand landmarks and bounding box around the hand for easy reuse
